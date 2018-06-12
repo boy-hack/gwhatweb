@@ -1,6 +1,8 @@
 import requests
 import json,hashlib,sys
 import gevent
+from gevent import monkey
+monkey.patch_all()
 from gevent.queue import Queue
 import time
 

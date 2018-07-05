@@ -4146,12 +4146,6 @@
         "md5": "525c4fc0129a84f864d7a71ee4f30a2b"
     },
     {
-        "url": "/Inc/NoSqlHack.Asp",
-        "re": "",
-        "name": "southidc",
-        "md5": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    {
         "url": "/style/default/hdwiki.css",
         "re": "",
         "name": "HDwiki",
@@ -7152,12 +7146,6 @@
         "md5": "bb2df5d4a43793e80be55a27170dd8bb"
     },
     {
-        "url": "/download.jsp",
-        "re": "",
-        "name": "MinyooCMS",
-        "md5": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    {
         "url": "/App_Image/Public/select.gif",
         "re": "",
         "name": "天柏在线考试系统",
@@ -7888,12 +7876,6 @@
         "re": "",
         "name": "easy7视频监控平台",
         "md5": "bb2df5d4a43793e80be55a27170dd8bb"
-    },
-    {
-        "url": "/download.jsp",
-        "re": "",
-        "name": "MinyooCMS",
-        "md5": "d41d8cd98f00b204e9800998ecf8427e"
     },
     {
         "url": "/content/platcontentnew/images/baselogin/loginsj.png",

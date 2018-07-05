@@ -19,7 +19,7 @@ class gwhatweb(object):
 		
     def _GetMd5(self,body):
         m2 = hashlib.md5()
-        m2.update(body)
+        m2.update(body.encode("utf8"))
         return m2.hexdigest()
 
     def _clearQueue(self):

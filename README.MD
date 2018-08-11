@@ -4,7 +4,7 @@
 - python 协程
 
 ## TODO
-- 关注量好多，准备更新一波指纹和重新优化下代码，也是单文件方便调用的格式~
+- 更新移步分布式指纹识别平台 [https://github.com/boy-hack/w11scan](https://github.com/boy-hack/w11scan)
 
 ### Requement
 - ` pip install requests,gevent`

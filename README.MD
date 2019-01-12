@@ -5,6 +5,7 @@
 
 ## TODO
 - 更新移步分布式指纹识别平台 [https://github.com/boy-hack/w11scan](https://github.com/boy-hack/w11scan)
+- goWhatweb [https://github.com/boy-hack/goWhatweb](https://github.com/boy-hack/goWhatweb)
 
 ### Requement
 - ` pip install requests,gevent`
